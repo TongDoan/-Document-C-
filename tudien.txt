@@ -1,0 +1,6 @@
+goldfish,cavang,danhtu
+cat,conmeo,danhtu
+mama,me,danhtu
+hot,nong,danhtu
+apple,quatao,danhtu
+parrot,convet,danhtu
